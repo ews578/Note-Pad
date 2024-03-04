@@ -1,3 +1,13 @@
+// const fs = require('fs');
+
+// const express = require('express');
+// const notes = require('notes');
+
+// const app = express();
+// const PORT = 3001;
+
+
+
 let noteForm;
 let noteTitle;
 let noteText;
